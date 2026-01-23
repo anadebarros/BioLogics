@@ -176,7 +176,6 @@ Expected output:
 * [Biopython](https://biopython.org/)
 * [Matplotlib](https://matplotlib.org/) (for plotting population or evolutionary data)
 
-```
 
 ---
 
@@ -193,4 +192,3 @@ Expected output:
 
 BioLogics is **experimental and evolving**, designed to **grow through exploration** rather than rigid guarantees. Code is not just written — it is **grown, mutated, and observed**.
 
-```
